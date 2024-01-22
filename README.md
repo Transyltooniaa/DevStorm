@@ -36,7 +36,7 @@ SportsPal was developed to address the challenge of finding sports partners with
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
 ```
-https://github.com/Transyltooniaa/SportsPal
+https://github.com/Transyltooniaa/DevStorm
 ```
 
 ## Requirements
@@ -54,6 +54,14 @@ cd SportsPal
 ```
 python3 manage.py runserver
 ```
+
+ <div align="center">OR</div> 
+ 
+```
+python manange.py runserver
+```
+
+
 Paste the below mentioned link on any web browser on your system
 ```
 https://127.0.0.1:8000/
@@ -72,9 +80,6 @@ https://127.0.0.1:8000/
 
 SportsPal's future plans include the addition of sports tournaments and a dedicated blogging section. These features will enhance the overall experience and make SportsPal a comprehensive hub for college sports enthusiasts.
 
-## More Details
-
-Please refer to the project documentation : Documentation[Project proposal.pdf]
 
 ## CONTRIBUTING
 
